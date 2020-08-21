@@ -1,1 +1,0 @@
-tatic -O3 -o p_z3 "prismatoid_z3/main.cpp" "prismatoid_z3/Prismatoid_Z3.cpp" -Iprismatoid_z3 -IOGDF -Lz3/lib -LOGDF/_release -lz3 -lgmp -lOGDF -lpthread 
